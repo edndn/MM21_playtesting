@@ -1,7 +1,15 @@
 ## Overview
 This repository contains reusable datsets and codes resulted from our project presented as a paper in ACM Multimedia 2021. 
-As a part of our project, we analyzed 2,882,894 button inputs from 3,501 players of a commercial on-line baseball game `MaguMagu` through the Moving-Target Acquisition model (MTA model).
+As a part of our project, we analyzed button input data from 3,501 players of an on-line baseball game through the Moving-Target Acquisition model (MTA model).
 This was the first replication of the MTA model with a large amount of in-the-wild data.
+
+
+## Dataset Description
+
+* 2,882,894 button inputs from 3,501 players
+* commercial on-line baseball game `MaguMagu`
+
+
 
 ## Related Paper
 
